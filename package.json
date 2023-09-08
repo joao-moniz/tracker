@@ -1,0 +1,14 @@
+{
+  "name": "servidor_rastreador_coban",
+  "version": "1.0.0",
+  "description": "Servidor para rastreadores Coban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Moniz",
+  "license": "ISC",
+  "dependencies": {
+    "tk102": "^1.3.4"
+  }
+}
